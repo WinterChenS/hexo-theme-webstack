@@ -1,0 +1,16 @@
+- name: 阮一峰的网络日志
+  url: http://www.ruanyifeng.com/blog/
+  img: /images/logos/ruanyifeng.jpg
+  description: 一名IT技术人员，并且对自由软件有着坚定不移的信念。
+- name: 美团技术团队
+  url: https://tech.meituan.com/
+  img: /images/logos/meituan.jpg
+  description: 美团技术团队。
+- name: 稚晖的个人站
+  url: http://www.pengzhihui.xyz/
+  img: /images/logos/default_head.png
+  description: 野生钢铁侠。
+- name: 孤独烟
+  url: http://rjzheng.cnblogs.com/
+  img: /images/logos/default_head.png
+  description: 风趣幽默的java大佬，内容深入浅出。

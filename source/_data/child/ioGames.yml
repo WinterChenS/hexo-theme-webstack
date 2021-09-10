@@ -1,0 +1,18 @@
+- name: io Games
+  url: https://iogames.space/
+  img: /images/logos/io-game.png
+  description: 点开即玩，io游戏平台，有许多对阵游戏。
+- name: crazygames
+  url: https://www.crazygames.com/
+  img: /images/logos/crazygames.png
+  description: 网页游戏平台，高级版4399，优质的游戏特别多。
+- name: 在线dos游戏
+  url: https://dos.zczc.cz/
+  img: /images/logos/zczc.png
+  description: 回味经典。
+- name: 在线FC街机游戏
+  url: https://www.yikm.net/
+  img: /images/logos/yikm.png
+  description: 回味经典。
+
+
