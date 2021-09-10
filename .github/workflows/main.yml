@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master # 代码提交的时候触发构建部署
+      - gh-pages # 代码提交的时候触发构建部署
   
 env:
   TZ: Asia/Shanghai
