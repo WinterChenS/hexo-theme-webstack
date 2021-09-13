@@ -2,23 +2,15 @@
   url: https://github.com/
   img: /images/logos/github.png
   description: 面向开源及私有软件项目的托管平台。
-- name: Github
-  url: https://github.com/
-  img: /images/logos/github.png
-  description: 面向开源及私有软件项目的托管平台。
-- name: Github
-  url: https://github.com/
-  img: /images/logos/github.png
-  description: 面向开源及私有软件项目的托管平台。
-- name: Github
-  url: https://github.com/
-  img: /images/logos/github.png
-  description: 面向开源及私有软件项目的托管平台。
-- name: Github
-  url: https://github.com/
-  img: /images/logos/github.png
-  description: 面向开源及私有软件项目的托管平台。
-- name: Github
-  url: https://github.com/
-  img: /images/logos/github.png
-  description: 面向开源及私有软件项目的托管平台。
+- name: 掘金社区
+  url: https://juejin.cn/
+  img: /images/logos/juejin.png
+  description: 超级无敌好用的笔记工具。
+- name: Notion
+  url: https://www.notion.so/
+  img: /images/logos/Notion.png
+  description: 超级无敌好用的笔记工具。
+- name: 清华大学镜像源
+  url: https://mirrors.tuna.tsinghua.edu.cn/
+  img: /images/logos/tuna.png
+  description: 清华大学镜像源。

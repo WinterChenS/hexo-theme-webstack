@@ -1,8 +1,12 @@
+- name: C语言入门教程
+  url: https://wangdoc.com/clang/
+  img: /images/logos/clang.png
+  description: 阮一峰开源的C语言入门教程。
 - name: Github
   url: https://github.com/
   img: /images/logos/github.png
   description: 面向开源及私有软件项目的托管平台。
-- name: Github
-  url: https://github.com/
-  img: /images/logos/github.png
-  description: 面向开源及私有软件项目的托管平台。
+- name: Spring Cloud 官方文档
+  url: https://spring.io/projects/spring-cloud
+  img: /images/logos/springcloud.png
+  description: Spring Cloud 官方文档。
