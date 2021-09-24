@@ -14,3 +14,23 @@
   url: https://mirrors.tuna.tsinghua.edu.cn/
   img: /images/logos/tuna.png
   description: 清华大学镜像源。
+- name: 正则表达式工具
+  url: https://regex101.com/
+  img: /images/logos/advanced_regex.png
+  description: 正则表达式工具，支持生成代码。
+- name: Utopia
+  url: https://utopia.app/
+  img: /images/logos/react.png
+  description: 在线托拉拽生成React代码，开源。
+- name: 在线markdown转换富文本
+  url: https://codepen.io/xiaokyo-the-bold/pen/ZEpWByR
+  img: /images/logos/markdown.png
+  description: 在线markdown转换富文本
+- name: railway
+  url: https://railway.app/
+  img: /images/logos/railway.png
+  description: 部署应用的网站，配置强大，有免费额度，一般都够用。
+- name: maven中央仓库
+  url: https://mvnrepository.com/
+  img: /images/logos/maven.png
+  description: maven中央仓库，java程序员常用。

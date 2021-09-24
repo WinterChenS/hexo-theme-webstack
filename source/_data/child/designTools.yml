@@ -10,3 +10,27 @@
   url: https://www.iconfont.cn/
   img: /images/logos/Iconfont.png
   description: 阿里巴巴矢量图标库。
+- name: mp4-to-gif
+  url: https://cloudconvert.com/mp4-to-gif
+  img: /images/logos/conver.png
+  description: mp4转换成gif工具。
+- name: rawgraphs
+  url: https://app.rawgraphs.io/
+  img: /images/logos/mode-linegraphs.png
+  description: 表格生成可视化图表
+- name: 系统架构设计工具
+  url: https://honzaap.github.io/Systemizer/create
+  img: /images/logos/honzaap.png
+  description: 系统架构设计工具，可以模拟交互。
+- name: 表格转换为markdown
+  url: https://tableconvert.com/
+  img: /images/logos/table.png
+  description: 表格转换为markdown。
+- name: carbon
+  url: https://carbon.now.sh/
+  img: /images/logos/carbon.png
+  description: 生成美观的代码图片。
+- name: unsplash
+  url: https://unsplash.com/
+  img: /images/logos/unsplash.png
+  description: 无需版权的图片素材网站，非常丰富。
