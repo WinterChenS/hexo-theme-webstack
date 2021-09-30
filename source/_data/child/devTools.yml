@@ -34,3 +34,8 @@
   url: https://mvnrepository.com/
   img: /images/logos/maven.png
   description: maven中央仓库，java程序员常用。
+- name: 在线扒站工具
+  url: https://bazhan.me/
+  img: /images/logos/spider.png
+  description: 在线扒站工具。
+  
